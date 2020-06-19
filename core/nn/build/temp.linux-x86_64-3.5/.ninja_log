@@ -1,0 +1,8 @@
+# ninja log v5
+1	15401	1588929527898168799	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/cpu/psa_cpu.o	9b23b886736fef42
+2	15593	1588929528086168806	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/cpu/ca_cpu.o	67417a1c7d90cf49
+2	20876	1588929533370168999	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/cpu/syncbn_cpu.o	28ed5b3400533bd9
+8	21576	1588929534066169025	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/cuda/psa_cuda.o	bea9b52d37a0cf99
+7	22112	1588929534606169045	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/cuda/ca_cuda.o	c2aa010fc6b6a6e3
+1	23684	1588929536178169102	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/vision.o	e3cd360746e3ca6b
+8	27732	1588929540222169250	/home/awesome-semantic-segmentation-pytorch/core/nn/build/temp.linux-x86_64-3.5/home/awesome-semantic-segmentation-pytorch/core/nn/csrc/cuda/syncbn_cuda.o	d7c26963121d0776
