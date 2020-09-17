@@ -7,6 +7,7 @@ python setup.py build develop
 
 | Backbone | Method |Basesize|Epoch|Segmodel | pixACC | mIOU |
 |:-----:|:-----:|:-------:|:-----:|:-----:|:-----:|:-----:|
+|R-18|Clear_Img| 480 | 60 |Deeplabv3|95.993|90.002|
 |R-18|Clear_Img+Rotation1.0| 480 | 60 |Deeplabv3|96.131|91.316|
 |R-18|Clear_Img+Rotation0.5| 480 |60 |Deeplabv3|96.483|92.016|
 |R-18|Clear_Img+Rotation0.0| 480 |60 |Deeplabv3|96.607|91.828|
