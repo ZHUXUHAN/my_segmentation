@@ -12,6 +12,7 @@ python setup.py build develop
 |R-18|Clear_Img+Rotation0.5| 480 |60 |Deeplabv3|96.483|92.016|
 |R-18|Clear_Img+Rotation0.0| 480 |60 |Deeplabv3|96.607|91.828|
 |R-18|Clear_Img+Rotation0.5+RandomColor0.5| 480 |60 |Deeplabv3|96.139|92.335|
+|R-18|Img| 480 | 60 |Deeplabv3|95.223|90.352|
 |R-18|Img+Rotation0.5+RandomColor0.5| 480 | 60 |Deeplabv3|97.371|93.330|
 |R-18|Img+Rotation0.5+RandomColor0.5| 500 | 60 |Deeplabv3|96.861|92.224|
 |R-18|Img+Rotation0.5+RandomColor0.5| 460 | 60 |Deeplabv3|97.735|92.883|
